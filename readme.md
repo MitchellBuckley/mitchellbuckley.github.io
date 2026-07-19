@@ -1,4 +1,4 @@
 
-# testing
+# Mitch's homepage stub
 
-testing
+Under construction.
