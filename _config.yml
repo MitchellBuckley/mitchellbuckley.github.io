@@ -1,2 +1,5 @@
-title: Mitchell Buckley's Homepage
-description: Basic information about Mitchell Buckley.
+title: Mitchell Buckley
+description: Mathematician and Proof Engineer
+url: "https://mitchellbuckley.github.io"
+markdown: kramdown
+theme: minima
