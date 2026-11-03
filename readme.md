@@ -1,4 +1,4 @@
 
-# Mitch's homepage stub
+# Mitch's homepage
 
-Under construction.
+Nothing else to say.
