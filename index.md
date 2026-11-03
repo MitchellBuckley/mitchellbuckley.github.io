@@ -34,9 +34,8 @@ My core training is in pure mathematics but I have extensive history working in 
 
 ## Publications
 
-- **Composing Double Categories**
-  M. Buckley, R. Garner.
-  [arXiv:2610.41551](https://arxiv.org/abs/2610.41551), 2026.
+- [**Composing Double Categories**](https://arxiv.org/abs/2610.41551)
+  M. Buckley, R. Garner. arXiv:2610.41551, 2026.
 
 - [**A Larson-Sweedler theorem for Hopf V-categories**](https://doi.org/10.1016/j.aim.2020.107456)
   M. Buckley, T. Fieremans, C. Vasilakopoulou, J. Vercruysse.
